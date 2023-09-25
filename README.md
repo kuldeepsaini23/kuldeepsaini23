@@ -1,6 +1,5 @@
 # 💫 About Me:
 ![](https://visitcount.itsvg.in/api?id=kuldeepsaini23&label=Profile%20Views&color=0&icon=0&pretty=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsaini23&label=Profile%20views&color=0e75b6&style=plastic" alt="kuldeepsaini23" /> </p>
 🔭 I’m currently working on StudyNotion<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with StudyNotion<br>🌱 I’m currently learning Nextjs, Bun<br>👨‍💻 All of my projects are available at https://kuldeepsaini.me<br>💬 Ask me about MERN, SQL, Tableau<br>📫 How to reach me kuldeepsaini02311@gmail.com<br>⚡ Fun fact  love playing Video games
 
 [//]: <## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=kuldeepsaini23&theme=dracula&no-frame=false&no-bg=true&margin-w=4)>
