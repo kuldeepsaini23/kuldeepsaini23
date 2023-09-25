@@ -1,5 +1,6 @@
 # 💫 About Me:
 ![](https://visitcount.itsvg.in/api?id=kuldeepsaini23&label=Profile%20Views&color=0&icon=0&pretty=true)
+
 🔭 I’m currently working on StudyNotion<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with StudyNotion<br>🌱 I’m currently learning Nextjs, Bun<br>👨‍💻 All of my projects are available at https://kuldeepsaini.me<br>💬 Ask me about MERN, SQL, Tableau<br>📫 How to reach me kuldeepsaini02311@gmail.com<br>⚡ Fun fact  love playing Video games
 
 [//]: <## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=kuldeepsaini23&theme=dracula&no-frame=false&no-bg=true&margin-w=4)>
@@ -26,7 +27,7 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## 💰 You can help me by Donating
+# 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kuldeepsaim) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kuldeeepsaini2311) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kuldeepsaini) 
 
 
